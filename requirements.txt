@@ -1,0 +1,7 @@
+PyQt5>=5.15
+numpy
+pandas
+matplotlib
+pyserial
+onnxruntime
+scipy
